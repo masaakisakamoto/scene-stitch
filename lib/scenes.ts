@@ -455,6 +455,7 @@ const sceneModules = {
   'ura-hara': () => import('@/content/scenes/ura-hara.mdx'),
   'shibuya-kei': () => import('@/content/scenes/shibuya-kei.mdx'),
   'visual-kei': () => import('@/content/scenes/visual-kei.mdx'),
+  'harajuku-street-fashion': () => import('@/content/scenes/harajuku-street-fashion.mdx'),
 }
 
 export function getSceneSlugs() {
