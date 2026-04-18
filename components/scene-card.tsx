@@ -12,7 +12,7 @@ export function SceneCard({ scene }: { scene: SceneSummary }) {
 
         {!scene.published ? (
           <span className="rounded-full border border-black/10 px-2 py-1 text-[11px] uppercase tracking-[0.14em] text-black/45">
-            Draft
+            Planned
           </span>
         ) : null}
       </div>
