@@ -23,7 +23,7 @@ export default function HomePage() {
               複数の関係が重なったときに生まれる。
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
-              <CtaButton href="/scene">シーンから読む</CtaButton>
+              <CtaButton href="/scenes">シーンから読む</CtaButton>
               <CtaButton href="/timeline" secondary>
                 年代から読む
               </CtaButton>

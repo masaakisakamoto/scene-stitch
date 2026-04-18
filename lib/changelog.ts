@@ -16,7 +16,7 @@ export const changelog: ChangeItem[] = [
     title: 'Launch edition を公開',
     summary:
       'SCENE/STITCH を初公開。Punk、Hip-Hop、Ura-Hara、Shibuya-kei、Visual Kei の5本を旗艦記事として公開し、About / Method / Sources を同時公開した。',
-    href: '/scene',
+    href: '/scenes',
     notes: ['思想を先に見せるため、百科事典型ではなく5本の看板記事で開始。', '世界史と東京ローカルを往復できるラインナップを初期軸に設定。'],
   },
   {

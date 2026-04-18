@@ -127,7 +127,7 @@ export default function AboutPage() {
             世界史と東京ローカルを往復しながら、サイトの軸を明確にするための最初の5本です。
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
-            <CtaButton href="/scene">公開中のシーンを見る</CtaButton>
+            <CtaButton href="/scenes">公開中のシーンを見る</CtaButton>
             <CtaButton href="/method" secondary>
               Method を読む
             </CtaButton>

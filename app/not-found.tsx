@@ -22,7 +22,7 @@ export default function NotFound() {
               トップへ戻る
             </Link>
             <Link
-              href="/scene"
+              href="/scenes"
               className="inline-flex rounded-full border border-black/12 bg-white px-4 py-2 text-sm font-medium transition hover:bg-black/4"
             >
               公開中のシーンを見る

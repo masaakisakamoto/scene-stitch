@@ -11,7 +11,7 @@ export default function NotFound() {
           <p className="mt-4 text-sm leading-7 text-black/70">
             このシーンは構成中です。まずは公開済みの Punk / Hip-Hop / Ura-Hara から育てていくのがおすすめです。
           </p>
-          <Link href="/scene" className="mt-6 inline-flex rounded-full bg-black px-4 py-2 text-sm text-white">
+          <Link href="/scenes" className="mt-6 inline-flex rounded-full bg-black px-4 py-2 text-sm text-white">
             シーン一覧へ戻る
           </Link>
         </div>
