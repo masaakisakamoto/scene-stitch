@@ -153,7 +153,7 @@ export const scenes: SceneSummary[] = [
     cities: ['Tokyo'],
     tags: ['street snap', 'Harajuku', 'kawaii'],
     socialSubtitle: 'Tokyo street style as a world-facing laboratory of looks.',
-    published: false,
+    published: true,
     featured: true,
 
     track: 'japan-pillar',
